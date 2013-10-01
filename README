@@ -1,0 +1,7 @@
+Git Commands to remember:
+
+git remote add origin https://github.com/RhysStansfield/<dir name>.git
+
+git push origin master
+
+git clone https://github.com/RhysStansfield/<dir name>.git
